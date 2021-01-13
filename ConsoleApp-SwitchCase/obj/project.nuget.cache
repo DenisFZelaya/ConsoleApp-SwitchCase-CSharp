@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ecfsZScEgHIEJ7U7G5lDFCFgAVFzOvYdCtJ7+K/uC6Otzgt2y+HwUJA4ptwsWwdZYG8DaBA0tts2orclV7wO4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Laptop\\source\\repos\\ConsoleApp-SwitchCase\\ConsoleApp-SwitchCase\\ConsoleApp-SwitchCase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Laptop\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Laptop\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
